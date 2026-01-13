@@ -1,4 +1,4 @@
 .vscode/
-.exe/
-input.txt/
-output.txt/
+*.exe
+input.txt
+output.txt
